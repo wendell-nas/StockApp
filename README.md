@@ -1,0 +1,2 @@
+# StockApp
+Sistema de estoque.
